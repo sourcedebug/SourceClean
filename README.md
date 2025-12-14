@@ -4,6 +4,7 @@ We can preserve the compiled intermediate files by adding -save-temps=obj -fdire
 Please visit https://www.sourcedebug.com/products/index.html and https://www.sourcedebug.com/document/sourceclean/fold-gettingstart.htm for more info.
 
 Video:
+
 https://www.youtube.com/watch?v=0i7gKIfBjIA
 
 https://youtu.be/rBpW8bwAAjQ
